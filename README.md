@@ -1,8 +1,7 @@
 # azure-functions
 Azure functions using Java
 
-This repository is created to have hands on for Azure functions.  Some real world examples are developed using azure functions.
-These functions are ready to deploy and also tested on azure portal.
+This repository has been created for hands-on experience with Azure Functions using Java. Several real-world examples have been developed using Azure Functions. These functions are ready for deployment and have also been tested on the Azure portal.
 
 Examples:
 1. Convert image to its thumbnail (ImageThumbnailBlobTrigger.java): Here azure function is triggered whenever images are placed in image-container blob and after resizing into thumbnail, images are pushed to image-output blob container.
